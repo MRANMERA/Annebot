@@ -3,7 +3,7 @@ import random
 import re
 from difflib import SequenceMatcher
 
-TOKEN = '6730930180:AAHLYJcbnzlPAZwbNdKoYlIFCcTiV0CVN40'
+TOKEN = '{}' #add your token here
 
 print(TOKEN)
 
